@@ -12,6 +12,7 @@
     if (colorGradient2 == "" || colorGradient2 == null) { colorGradient2 = "#3e4c9f"; };
     if (colorAccent1 == "" || colorAccent1 == null) { colorAccent1 = "#e9b1aa"; };
     if (colorAccent2 == "" || colorAccent2 == null) { colorAccent2 = "#f5c0ba"; };
+    var repos = GithubHelper.GetRepositories("umbraco");
 }
 <!DOCTYPE html>
 <html lang="en">
@@ -142,7 +143,11 @@
     </div>
  
  @RenderBody()
-
+    @foreach (var repo in repos)
+    {
+        <h1>@repo.FullName</h1>
+        <p>@repo.Description</p>
+    }
      <footer class="mastfoot my-3">
         <div class="inner container">
             <div class="row">
