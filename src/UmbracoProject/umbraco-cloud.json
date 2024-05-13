@@ -7,6 +7,12 @@
       "TrialExpireDate": "2024-05-27T06:31:46.0000000",
       "Workspaces": [
         {
+          "Id": "2096412c-af80-470d-86e1-88f499d9631d",
+          "Name": "Development",
+          "Type": "development",
+          "Url": "https://dev-debasishs-charming-wombat.euwest01.umbraco.io"
+        },
+        {
           "Id": "407c14a5-5d29-4819-9bb5-0f710f5fd498",
           "Name": "Live",
           "Type": "live",
