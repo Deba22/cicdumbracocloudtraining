@@ -6,7 +6,7 @@
     "umb://template/0216314423584a79a000e47a06b39475"
   ],
   "HistoryCleanup": {},
-  "Icon": "icon-document",
+  "Icon": "icon-notepad-alt color-blue",
   "Thumbnail": "folder.png",
   "Permissions": {
     "AllowedChildContentTypes": []
