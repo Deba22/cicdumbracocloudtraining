@@ -10,13 +10,18 @@
   "Thumbnail": "folder.png",
   "IsContainer": true,
   "Permissions": {
-    "AllowedChildContentTypes": []
+    "AllowedChildContentTypes": [
+      "umb://document-type/2111f61d0c6447c6ab384b76450978a4"
+    ]
   },
   "CompositionContentTypes": [],
   "PropertyGroups": [],
   "PropertyTypes": [],
   "Udi": "umb://document-type/27148001850048b88bac4157cb717531",
   "Dependencies": [
+    {
+      "Udi": "umb://document-type/2111f61d0c6447c6ab384b76450978a4"
+    },
     {
       "Udi": "umb://template/90d968a8be3c45d889c74f4cd9169367",
       "Ordering": true
