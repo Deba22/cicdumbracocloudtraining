@@ -1,8 +1,0 @@
-{
-  "Name": "Blog",
-  "Alias": "Blog",
-  "Udi": "umb://template/b2b06c4a580549fca65438c9b90b1ab1",
-  "Dependencies": [],
-  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
-  "__version": "13.1.0"
-}
