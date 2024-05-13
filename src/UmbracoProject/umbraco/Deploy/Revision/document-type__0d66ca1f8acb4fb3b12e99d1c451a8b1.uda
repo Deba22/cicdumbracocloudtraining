@@ -6,7 +6,7 @@
     "umb://template/8f7a9393b4874ae69f6bbec926b6babd"
   ],
   "HistoryCleanup": {},
-  "Icon": "icon-document",
+  "Icon": "icon-document color-blue",
   "Thumbnail": "folder.png",
   "Permissions": {
     "AllowedChildContentTypes": [
