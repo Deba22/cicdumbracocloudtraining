@@ -2,10 +2,15 @@
   "Name": "Blog",
   "Alias": "Blog",
   "File": "umb://template-file/Blog.cshtml",
+  "Master": "umb://template/093c7b0420274e63bd97a1cd536c84c5",
   "Udi": "umb://template/0216314423584a79a000e47a06b39475",
   "Dependencies": [
     {
       "Udi": "umb://template-file/Blog.cshtml",
+      "Ordering": true
+    },
+    {
+      "Udi": "umb://template/093c7b0420274e63bd97a1cd536c84c5",
       "Ordering": true
     }
   ],
