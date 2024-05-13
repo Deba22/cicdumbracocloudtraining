@@ -1,0 +1,27 @@
+{
+  "Name": "Blogs Folder",
+  "Alias": "blogsFolder",
+  "DefaultTemplate": "umb://template/90d968a8be3c45d889c74f4cd9169367",
+  "AllowedTemplates": [
+    "umb://template/90d968a8be3c45d889c74f4cd9169367"
+  ],
+  "HistoryCleanup": {},
+  "Icon": "icon-folder color-blue",
+  "Thumbnail": "folder.png",
+  "IsContainer": true,
+  "Permissions": {
+    "AllowedChildContentTypes": []
+  },
+  "CompositionContentTypes": [],
+  "PropertyGroups": [],
+  "PropertyTypes": [],
+  "Udi": "umb://document-type/27148001850048b88bac4157cb717531",
+  "Dependencies": [
+    {
+      "Udi": "umb://template/90d968a8be3c45d889c74f4cd9169367",
+      "Ordering": true
+    }
+  ],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.ContentType.DocumentTypeArtifact",
+  "__version": "13.1.0"
+}
