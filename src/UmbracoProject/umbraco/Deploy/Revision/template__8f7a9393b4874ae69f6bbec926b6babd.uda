@@ -2,10 +2,15 @@
   "Name": "Text Page",
   "Alias": "TextPage",
   "File": "umb://template-file/TextPage.cshtml",
+  "Master": "umb://template/093c7b0420274e63bd97a1cd536c84c5",
   "Udi": "umb://template/8f7a9393b4874ae69f6bbec926b6babd",
   "Dependencies": [
     {
       "Udi": "umb://template-file/TextPage.cshtml",
+      "Ordering": true
+    },
+    {
+      "Udi": "umb://template/093c7b0420274e63bd97a1cd536c84c5",
       "Ordering": true
     }
   ],
