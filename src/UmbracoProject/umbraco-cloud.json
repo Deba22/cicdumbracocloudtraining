@@ -1,7 +1,18 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "debasishs charming wombat",
+      "Alias": "debasishs-charming-wombat",
+      "Id": "d9d41f80-5484-4aa8-aa69-a61adf09b4a0",
+      "TrialExpireDate": "2024-05-27T06:31:46.0000000",
+      "Workspaces": [
+        {
+          "Id": "407c14a5-5d29-4819-9bb5-0f710f5fd498",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://debasishs-charming-wombat.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
